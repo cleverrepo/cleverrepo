@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleverrepo
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in mobile ...development
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...mobile development 
 - 📫 How to reach me ...abdullahifaruk445@gmail.com
